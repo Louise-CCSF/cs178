@@ -28,7 +28,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/ma
 </dependency>
 </dependencies>
 <build>
-<finalName>lelse-servlet-countthrees/finalName>
+<finalName>lelse-servlet-countthrees</finalName>
 <plugins>
 <plugin>
 <groupId>org.mortbay.jetty</groupId>
