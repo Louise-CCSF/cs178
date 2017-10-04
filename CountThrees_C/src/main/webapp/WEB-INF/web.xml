@@ -1,20 +1,12 @@
 <!DOCTYPE web-app PUBLIC
  "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
-<<<<<<< HEAD
 
-=======
- 
->>>>>>> 38d02b20d41166ac1bdb82e0a3f4f2e93d4517ca
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
   <servlet>
     <servlet-name>lelse-servlet-countthrees-c</servlet-name>
-<<<<<<< HEAD
     <servlet-class>com.hpcbayarea.cs178.ServletCountThrees</servlet-class>
-=======
-    <servlet-class>com.hpcbayarea.cs178.ServletCountThrees</servlet-class>  
->>>>>>> 38d02b20d41166ac1bdb82e0a3f4f2e93d4517ca
   </servlet>
   <servlet-mapping>
     <servlet-name>lelse-servlet-countthrees-c</servlet-name>
